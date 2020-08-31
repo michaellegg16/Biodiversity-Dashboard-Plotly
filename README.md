@@ -47,4 +47,4 @@
 
 ### Conclusion
 
-That data exploration using JavaScript and Plotly was interesting as we used actual data about belly button microbes ([url](http://robdunnlab.com/projects/belly-button-biodiversity/)).
+That data exploration using JavaScript and Plotly was interesting as we used actual data about belly button microbes ([Data](http://robdunnlab.com/projects/belly-button-biodiversity/)). While it is a bit difficult to see the data as a whole from this analysis, it reveals that a small handful of microbial species (operational taxonomic units, or OTUs) were present in more than 70% of people while the rest were relatively rare. Coupling the bar chart with the bubble chart is an effective way of demonstrating the total top OTUs found in the patient and their relative proportion to the rest. While this analysis visually reflects the data of a specific patient effectively, it would be nice to view aggregate data on the patients and further analysis could be conducted.
