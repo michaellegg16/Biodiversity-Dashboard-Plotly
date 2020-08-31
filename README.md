@@ -37,8 +37,8 @@
 6. Update all of the plots any time that a new sample is selected.
 
 
-![Dashboard](https://github.com/michaellegg16/plotly-Homework/blob/master/Instructions/Screenshots/BellyButtonDashboard.PNG)
-![Dashboard2](https://github.com/michaellegg16/plotly-Homework/blob/master/Instructions/Screenshots/BellyButtonDashboardBubble.PNG)
+![Dashboard](https://github.com/michaellegg16/Biodiversity-Dashboard-Plotly/blob/master/Screenshots/BellyButtonDashboard.PNG)
+![Dashboard2](https://github.com/michaellegg16/Biodiversity-Dashboard-Plotly/blob/master//Screenshots/BellyButtonDashboardBubble.PNG)
 
 
 ### Instructions
