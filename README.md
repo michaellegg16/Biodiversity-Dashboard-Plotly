@@ -37,6 +37,10 @@
 6. Update all of the plots any time that a new sample is selected.
 
 
+![Dashboard](https://github.com/michaellegg16/plotly-Homework/blob/master/Instructions/Screenshots/BellyButtonDashboard.PNG)
+![Dashboard2](https://github.com/michaellegg16/plotly-Homework/blob/master/Instructions/Screenshots/BellyButtonDashboardBubble.PNG)
+
+
 ### Instructions
 
 1. Make sure that the data is downloaded and in the proper directory.
